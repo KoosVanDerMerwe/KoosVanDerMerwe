@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nicholas Groenewald 👋</h1>
+<h1 align="center">Hi, I'm Nic 👋</h1>
 
 ## 🚀 About Me  
 I'm a second-year Computer Systems student at MTU Cork, working across software, hardware, and automation. I enjoy building programs, tools, and small systems that actually run efficiently—whether that's scripts that automate tasks, applications that solve real problems, or hardware projects that connect and communicate the way they're supposed to.
